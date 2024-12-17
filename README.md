@@ -18,7 +18,7 @@ The dataset comprises:
 
 ## Model
 
-The model used is a pretrained UNet architecture from `torchvision`. It is fine-tuned to handle the dataset’s specific characteristics and improve segmentation performance over multiple trials.
+The model used is a pretrained UNet architecture from `segmentation_models_pytorch`. It is fine-tuned to handle the dataset’s specific characteristics and improve segmentation performance over multiple trials.
 
 ---
 
