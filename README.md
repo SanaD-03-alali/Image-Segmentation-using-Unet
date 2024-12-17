@@ -1,4 +1,3 @@
-# Image-Segmentation-using-Unet
 # RoadExtract: Road Segmentation from Satellite Images
 
 ## Overview
