@@ -74,6 +74,6 @@ This project demonstrated the effectiveness of combining GAN-based data generati
 - **`Bird's-Eye Mapper.pdf`**: Contains the paper for our work.
 - **`results_final.xlsx`**: Consolidated results for all trials.
 - **`Predictions_original_data`**: This folder contains the predictions for trial 1.
-- - **`Predictions_10epochs_with_generation`**: This folder contains the predictions for trial 2.
+- **`Predictions_10epochs_with_generation`**: This folder contains the predictions for trial 2.
 - **`Predictions_20epochs_basic`**: This folder contains the predictions for trial 4.
 - **`Predictions_20epochs_fullAug`**: This folder contains the predictions for trial 5.
