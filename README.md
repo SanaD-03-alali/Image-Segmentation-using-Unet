@@ -71,3 +71,9 @@ This project demonstrated the effectiveness of combining GAN-based data generati
 - **`Image_Segmentation_trial1+2.ipynb`**: Contains code for Trials 1 and 2.
 - **`Image_Segmentation_trial3,4,5.ipynb`**: Contains code for Trials 3, 4, and 5.
 - **`results_final.xlsx`**: Consolidated results for all trials.
+- **`Bird's-Eye Mapper.pdf`**: Contains the paper for our work.
+- **`results_final.xlsx`**: Consolidated results for all trials.
+- **`Predictions_original_data`**: This folder contains the predictions for trial 1.
+- - **`Predictions_10epochs_with_generation`**: This folder contains the predictions for trial 2.
+- **`Predictions_20epochs_basic`**: This folder contains the predictions for trial 4.
+- **`Predictions_20epochs_fullAug`**: This folder contains the predictions for trial 5.
