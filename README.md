@@ -34,7 +34,7 @@ The model used is a pretrained UNet architecture from `segmentation_models_pytor
 | **Trial 4** | Increasing the number of epochs to assess performance improvement with extended training. |
 | **Trial 5** | Applying advanced augmentation techniques, including:  
   - **Elastic Transformations**: Random distortions mimicking terrain or lens effects, enhancing robustness to irregular road shapes.  
-  - **Shadow/Cloud Overlays**: Simulated shadows or clouds as semi-transparent layers to improve generalization for real-world conditions. |
+  - **Shadow/Cloud Overlays**: Simulated shadows or clouds as semi-transparent layers to improve generalization for real-world conditions. 
 
 ---
 
