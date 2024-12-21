@@ -1,4 +1,4 @@
-# RoadExtract: Road Segmentation from Satellite Images
+# Bird's-Eye Mapper: Road Segmentation from Satellite Images
 
 ## Overview
 
