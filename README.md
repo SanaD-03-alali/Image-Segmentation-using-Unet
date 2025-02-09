@@ -60,12 +60,6 @@ The model used is a pretrained UNet architecture from `segmentation_models_pytor
 
 ---
 
-## Conclusion
-
-This project demonstrated the effectiveness of combining GAN-based data generation, augmentation techniques, and extended training. Future work may explore hyperparameter optimization and additional advanced augmentations to further refine performance.
-
----
-
 ## Files
 
 - **`Image_Segmentation_trial1+2.ipynb`**: Contains code for Trials 1 and 2.
